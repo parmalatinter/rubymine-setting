@@ -304,6 +304,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ast-2.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.0, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/ast-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/ast-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="awesome_nested_set (v3.1.3, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/awesome_nested_set-3.1.3/lib" />
@@ -1868,6 +1876,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="jaro_winkler-1.5.1-x86_64-darwin (v1.5.1, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.2.5, RVM: ruby-2.2.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/jbuilder-2.2.5/lib" />
@@ -3078,6 +3094,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.1, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
     <library name="paranoia (v2.4.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/paranoia-2.4.0/lib" />
@@ -3092,6 +3116,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/parser-2.5.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.1.0, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/parser-2.5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/parser-2.5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.17.1, RVM: ruby-2.2.0) [gem]">
@@ -3300,6 +3332,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/powerpack-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.2, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/powerpack-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/powerpack-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="premailer (v1.11.1, RVM: ruby-2.3.1) [gem]">
@@ -3888,6 +3928,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rainbow (v3.0.0, RVM: ruby-2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.5/gems/rainbow-3.0.0/lib" />
@@ -4192,6 +4240,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rubocop-0.57.2/lib" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.57.2, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/rubocop-0.57.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/rubocop-0.57.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-debug-ide-0.6.0/bin" />
@@ -4242,6 +4298,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby-progressbar-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rubygems-bundler (v1.4.4, RVM: ruby-2.2.0) [gem]">
@@ -5290,6 +5354,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/unicode-display_width-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.4.0, RVM: ruby-2.2.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/unicode-display_width-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0/gems/unicode-display_width-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="useragent (v0.14.0, RVM: ruby-2.2.0) [gem]">
