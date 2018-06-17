@@ -812,6 +812,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/cancancan-1.17.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="cancancan (v2.2.0, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cancancan-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/cancancan-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="canonical-rails (v0.1.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/canonical-rails-0.1.2/app" />
@@ -3266,6 +3274,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="letter_opener_web (v1.3.4, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener_web-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener_web-1.3.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener_web-1.3.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener_web-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener_web-1.3.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/letter_opener_web-1.3.4/vendor" />
       </SOURCES>
     </library>
     <library name="libv8-3.16.14.19-x86_64-darwin (v3.16.14.19, RVM: ruby-2.5.1) [gem]">
