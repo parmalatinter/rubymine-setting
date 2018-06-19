@@ -4,6 +4,7 @@
       <mapping pattern=".configrc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="options" type="PLAIN_TEXT" />
       <mapping pattern="moving_average.rb" type="Ruby" />
     </extensionMap>
   </component>
